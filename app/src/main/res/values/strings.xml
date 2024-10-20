@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjetoAndroid06_1</string>
+    <string name="nome">Rodrigo Fortunato Martins Neves</string>
+    <string name="ra">1110482313035</string>
+    <string name="rbHorista">Professor Horista</string>
+    <string name="rbTitular">Professor Titular</string>
+    <string name="btnCalcular">Calcular Salário</string>
+    <string name="etValorSalario">Salario</string>
+    <string name="etValorHora">Valor Hora</string>
+    <string name="etHoraAula">Horas Aula</string>
+    <string name="etAnosInstituicao">Anos Instituição</string>
+    <string name="tvResultado">R$: </string>
+
+
+</resources>
